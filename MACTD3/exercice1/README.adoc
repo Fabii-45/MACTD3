@@ -1,0 +1,10 @@
+# Au bal masqué
+
+L'année 2020 restera mémorable. En son honneur, nous lui dédions cet exercice.
+Le but est de modéliser des personnes. Ces personnes ne peuvent pas sortir sans masque.
+Par contre, elles peuvent respirer et manger.
+
+Donc par défaut,
+la fonctionnalité "sortir" n'existe pas. Cependant, comme par magie, avec un masque tout devient possible. Par contre, il est plus compliqué de respirer et encore plus difficile de manger.
+
+Modélisez ce problème en utilisant le pattern décorateur.
