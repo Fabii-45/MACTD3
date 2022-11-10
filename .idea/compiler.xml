@@ -12,7 +12,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="exercice1" target="8" />
+      <module name="exercice1" target="1.8" />
       <module name="exercice2" target="1.8" />
       <module name="exercice3" target="1.8" />
       <module name="TD3" target="1.8" />

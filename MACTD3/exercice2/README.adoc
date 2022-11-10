@@ -16,9 +16,9 @@ Table de A et B
 [cols=",,,",options="header",]
 |==================================
 |*A \ B* |*Vrai* |*Faux* |*inconnu*
-|*Vrai* |Vrai |faux |Inconnu
-|*Faux* |Faux |faux |Faux
-|*inconnu* |Inconnu |faux |Inconnu
+|*Vrai* |visité.Vrai |faux |visité.Inconnu
+|*Faux* |visité.Faux |faux |visité.Faux
+|*inconnu* |visité.Inconnu |faux |visité.Inconnu
 |==================================
 
 a.  Donnez un diagramme de classe UML _détaillé_ permettant de
